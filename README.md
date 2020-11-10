@@ -1,4 +1,4 @@
 # TwitchBot
-Discord Bot\n
+Discord Bot
 
-Twitch Developer ver 
+Twitch API v5
